@@ -1,6 +1,11 @@
 {
-  "id": "news-001",
+  "id": "news-002",
   "active": true,
-  "message": "🎉 مرحباً بكم في PassGuard v1.3!",
-  "message_en": "🎉 Welcome to PassGuard v1.3!"
+  "title": "🎉 خصم خاص!",
+  "title_en": "🎉 Special Offer!",
+  "message": "احصل على PassGuard Pro بخصم 50% لفترة محدودة فقط!\n\nالعرض ينتهي نهاية الشهر.",
+  "message_en": "Get PassGuard Pro at 50% off for a limited time!\n\nOffer ends this month.",
+  "link": "https://passguard-pro.netlify.app",
+  "link_text": "احصل على العرض",
+  "link_text_en": "Get the Offer"
 }
